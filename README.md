@@ -9,7 +9,7 @@ The dataset used for this project is available publicly on Kaggle: https://www.k
 
 The data consists of information of the trip details of various travelers such as their destination, travel dates, duration of the trip in days, traveler demographics (name, age, gender, nationality), type and cost of accommodation and ransportation.
 
-Upon data cleaning the null values were deleted and new columns were created: destination_city, destination_country
+Upon data cleaning the null values were deleted and new columns were created: destination_city, destination_country.
 
 ### Visualisations:
-Visualisations of the data were created using Power BI
+Visualisations of the data were created using Power BI.
